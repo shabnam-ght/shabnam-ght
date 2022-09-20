@@ -6,7 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working in a digital agency called Limbo as a frontend developer
+- 💻 I’m currently working in a digital agency called Limbo as a frontend developer
+- 🌱I'm currently learning Three.js
 - 👯 I’m looking for productive collaborations 🤝
 - 😄 Pronouns: extrovert, curious, teamplayer 🙋‍♀️
 - 📫 How to reach me: [shabnam77.ght77@gmail.com](shabnam77.ght77@gmail.com) or my [Linkedin](https://www.linkedin.com/in/shabnam-ghatei/)
